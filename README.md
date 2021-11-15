@@ -2,3 +2,4 @@
 - 👀 I’m interested in website- and video game coding.
 - 🌱 I’m currently learning html and css.
 - 👾 Discord:Yeeti#2168
+- Male
